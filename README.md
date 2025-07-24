@@ -91,4 +91,5 @@ modelo_carregado = joblib.load('modelo_regressao_logistica.pkl')
 
 ---
 
-❗Esse projeto faz parte da conclusão da 
+👤 Autora
+Projeto desenvolvido por Maryllian Vieira como parte do Challenge da Trilha de Especialização em Data Science do Programa ONE: Oracle Next Education em parceria com a Alura.
