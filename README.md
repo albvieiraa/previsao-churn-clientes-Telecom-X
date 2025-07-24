@@ -91,22 +91,4 @@ modelo_carregado = joblib.load('modelo_regressao_logistica.pkl')
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-churn-prediction/
-│
-├── dados/
-│   └── telecom_churn.csv
-│
-├── notebooks/
-│   └── churn_modeling.ipynb
-│
-├── modelo/
-│   └── modelo_regressao_logistica.pkl
-│
-├── src/
-│   └── funcoes_utilitarias.py
-│
-└── README.md
-```
+❗Esse projeto faz parte da conclusão da 
